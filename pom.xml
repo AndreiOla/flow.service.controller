@@ -26,7 +26,7 @@
 		<jacoco.out.paths>${project.build.directory}</jacoco.out.paths>
 		<sonar.jacoco.reportPath>${jacoco.out.path}/jacoco.exec</sonar.jacoco.reportPath>
 		<jacoco.version>0.8.2</jacoco.version>
-		<kubernetes.version>5.12.3</kubernetes.version>
+		<kubernetes.version>5.12.4</kubernetes.version>
 		<tekton.version>5.12.3</tekton.version>
 	</properties>
 	<dependencyManagement>
